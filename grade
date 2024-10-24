@@ -1,0 +1,10 @@
+#Exam grade output
+
+mark = int(input("Enter your mark from 1 -100"))
+grade = grade (mark)
+ngrade = marksneed(mark)
+print("A MARK OF",mark ,"is grade ",grade)
+print("Yu needed",marksneed,"marks to achieve the next grade")
+
+
+
